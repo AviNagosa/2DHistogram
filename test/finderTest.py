@@ -1,8 +1,5 @@
 ##
 # Tests for finder.py
-#
-# All tests in the folder "test" are executed
-# when the "Test" action is invoked.
 ##
 
 import unittest
